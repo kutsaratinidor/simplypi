@@ -1,0 +1,21 @@
+# Ignore image files and system files
+*.iso
+*.zip
+*.tar.gz
+*.tar.bz2
+*.xz
+*.7z
+*.swp
+.DS_Store
+Thumbs.db
+# Ignore OS and editor files
+*.bak
+*.tmp
+*.log
+*.swo
+*.swn
+.idea/
+.vscode/
+__pycache__/
+.env
+.env.*
