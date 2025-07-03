@@ -4,7 +4,7 @@
 A minimal Buildroot-based image for Raspberry Pi B+ with AdGuard Home and Tailscale pre-installed. Goal is to make use of old Pi B+ I have lying around without installing a full raspbian OS.
 
 ## Download
-Get the image from the `images/` directory.
+Get the compressed image from the `images/` directory. Decompress the .gz file to get the image file.
 
 ## Flashing Instructions
 ```sh
